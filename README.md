@@ -1,3 +1,6 @@
-# SVGMagic
+# SVGMagic web site
 
-SVGMagic ready for github pages.
+The SVGMagic library web site, now hosted as a Github Pages publication.
+
+Please access it from the below link:
+https://jeanmilost.github.io/svgmagic.web/
